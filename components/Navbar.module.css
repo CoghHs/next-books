@@ -1,0 +1,37 @@
+.navbarWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1.2px solid black;
+}
+
+.navbarTitle {
+  font-size: 28px;
+}
+
+.navbarLink {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0px 50px;
+  align-items: center;
+}
+
+.navbarA {
+  font-weight: 400;
+  font-size: 28px;
+  text-decoration: wavy underline 1.5px;
+  color: black;
+}
+
+.navbarBtn {
+  transition: all 0.2s ease-in-out;
+}
+
+.navbarBtn:hover {
+  color: darkgray;
+  opacity: 0.5;
+}

@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+html,
+body {
+  background-image: url("https://img.freepik.com/free-vector/leafy-patterned-note-background_53876-97734.jpg?w=996&t=st=1697280058~exp=1697280658~hmac=24571241963b4108ae266aab3adc1335b80aef9b788a1d727ec6e4b91b7d6305");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 0;
+  margin: 0;
+  font-family: "Indie Flower", cursive;
+  background-color: white;
+}
+
+body {
+  width: 100%;
+  margin: 0 auto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+* {
+  box-sizing: border-box;
+}
